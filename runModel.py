@@ -1,3 +1,5 @@
+#Written by: Dr Rea Laila Antoniou Kourounioti
+
 import numpy as np
 import parameters as p
 import model as m
