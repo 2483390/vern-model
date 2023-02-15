@@ -1,3 +1,5 @@
+Written by: Dr Rea Laila Antoniou Kourounioti
+
 import math
 import numpy as np
 import csv
